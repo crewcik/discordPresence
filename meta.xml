@@ -1,0 +1,8 @@
+<resource>
+    <name>MTA Discord Presence</name>
+    <type>script</type>
+    <version>1.0</version>
+    <author>Crew</author>
+
+    <script src="client.lua" type="client" />
+</resource>
